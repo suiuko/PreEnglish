@@ -111,11 +111,62 @@ https://www.youtube.com/watch?v=y7l5QHRY_AI
 
 ##### Session 8 Introductions and conclusions
 
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/introductionsandconclusions"
+  radius="3px"
+  content="介绍和结论 - 点击跳转查看"></joe-abtn>
+
 [EAP Toolkit > Academic Writing > the role of the introduction in academic writing](https://www.elanguages.ac.uk/sussex/writing/the_role_of_the_introduction_in_academic_writing.html)
 
 [EAP Toolkit > Academic Writing > Introduction to writing conclusions](https://www.elanguages.ac.uk/sussex/writing/introduction_to_writing_conclusions.html)
 
 [EAP Toolkit > Academic Writing > Writing an effective conclusion](https://www.elanguages.ac.uk/sussex/writing/writing_an_effective_conclusion.html)
+
+
+##### self study 4
+
+Writing skills: using examples
+[Using examples to support written statements](https://www.elanguages.ac.uk/sussex/writing/using_examples_to_support_written_statements.html)
+
+Reading skills: reading to identify main points
+[EAP Toolkit: Reading and critical thinking > Reading to identify main points](https://www.elanguages.ac.uk/sussex/reading/reading_to_identify_main_points.html)
+
+##### Session 9 Part 1 Preparation for Reading Assessment 1
+
+HOW TO PREPARE？
+
+1. Read this for gist (without a dictionary). Think about andunderline / highlight key ideas and arguments.
+阅读本文的要点(不需要字典)。思考并强调关键的观点和论点
+
+2. Read again for further detail - you can check unknown words in a dictionary and make notes on the text in any way that you wish.
+3. Remember, you need to have this text with you when you do the assessment.
+
+##### Session 9 Part 2 Preparation for Listening Assessment 1
+
+HOW TO PREPARE?
+1. lecture aims / purpose
+2. structure
+3. key information, ideas, conclusion
+4. specific information: name, place,date, number
+
+
+### W5
+
+<joe-pdf src="https://pan.zgjnas.top:3443/directlink/1/share/preenglish/Week-5-Timetable.pdf
+" width="100%" height="500px"></joe-pdf>
+
+#### W5D1
+
+##### 阅读考试 1
+
+
+
+
+
+
+
 
 ## content link
 
@@ -157,6 +208,8 @@ https://www.youtube.com/watch?v=y7l5QHRY_AI
 
 
 ##### definition of paragraph 段落定义
+
+占全文 10% 的字数
 
 <joe-abtn
   color="#409eff"
