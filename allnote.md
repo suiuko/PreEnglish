@@ -159,13 +159,25 @@ HOW TO PREPARE?
 
 #### W5D1
 
+【待整理区】
+- 学术演讲讨论W5D3
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="/"
+  radius="3px"
+  content="学术演讲讨论W5D3 - 点击跳转查看"></joe-abtn>
+
 ##### 阅读考试 1
 
+> 11UK, 6pmCN 
 
 
+#### W5D2
 
-
-
+> ZOOM-9UK-4pmCN
+> video-11UK-6pmCN
+> Q-12UK-7pmCN
 
 
 ## content link
