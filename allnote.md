@@ -9,6 +9,8 @@
 
 [跳转到 Week4](#W4)
 
+[跳转到 Week5](#W5)
+
 ## schedule
 
 ### 推荐网站
@@ -17,10 +19,12 @@
 
 ### W1
 <a id="W1"></a> 
+
 #### W1作业
 
 ### W2
 <a id="W2"></a> 
+
 #### W2作业
 
 ### W3
@@ -41,9 +45,21 @@
   radius="3px"
   content="AB&SO模板 - 点击跳转查看"></joe-abtn>
 
+#### W5重要
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/finalessayexample"
+  radius="3px"
+  content="AB&SO模板 - 点击跳转查看"></joe-abtn>
 
 
 #### W3D1
+#### W3D2
+#### W3D3
+#### W3D4
+#### W3D5
+
 
 ### W4
 <a id="W4"></a> 
@@ -152,6 +168,7 @@ HOW TO PREPARE?
 4. specific information: name, place,date, number
 
 
+<a id="W5"></a> 
 ### W5
 
 <joe-pdf src="https://pan.zgjnas.top:3443/directlink/1/share/preenglish/Week-5-Timetable.pdf
@@ -159,19 +176,30 @@ HOW TO PREPARE?
 
 #### W5D1
 
-【待整理区】
-- 学术演讲讨论W5D3
-<joe-abtn
-  color="#409eff"
-  icon="fa-bell"
-  href="/"
-  radius="3px"
-  content="学术演讲讨论W5D3 - 点击跳转查看"></joe-abtn>
 
-##### 阅读考试 1
+##### S1阅读考试 1
 
 > 11UK, 6pmCN 
 
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/examreading1prepare"
+  radius="3px"
+  content="阅读笔记 - 点击跳转查看"></joe-abtn>
+
+##### S2Understanding draft and final essay criteria 
+论文初稿和最终论文的标准
+
+1. draft essay criteria 
+(1) engagement
+- have you engaged with the pre-sessional input and self-study and applied lessons to your work
+- have you acted on tutor feedback from the Annotated Bibliography and Sentence Outline
+
+(2)Quality qunantity and further work:
+- have you written close to or above the word count
+- Are there parts of the draft which can be highlighted as 'exemplars' (positive andwell-written examples) of structure and argument?
+- Will significant changes be needed regarding reading or reviewing lessons.clarification of argument and use of sources
 
 #### W5D2
 
@@ -179,13 +207,37 @@ HOW TO PREPARE?
 > video-11UK-6pmCN
 > Q-12UK-7pmCN
 
+##### Session 4 Speaking assessment 1 and seminar speaking skills: clarifying
+口语：澄清
+
+<img src="https://tu.zgjnas.top:3443/images/2023/07/25/GwgJ.png" alt="GwgJ.png" border="0">
+
+Useful phrases:
+- if i understand correctly, are you saying that?
+- in other words, do you mean that?
+
+[EAP Toolkit > Communication Skills > Checking and clarifying when speaking](https://www.elanguages.ac.uk/sussex/communication/checking_and_clarifying_when_speaking.html)
+
+
+##### Study task 2.1 Conjunctions
+[Owl Purdue](https://owl.purdue.edu/owl/multilingual/multilingual_students/combining_sentences/conjunctions_and_coordination.html)
+
+#### W5D3
+
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://pan.zgjnas.top:3443/directlink/1/share/preenglish/W4S5-Academic-scenario1.pdf"
+  radius="3px"
+  content="学术情况1 讨论 - 点击跳转查看"></joe-abtn>
 
 ## content link
 
 ### 【writting】写作部分
 
-> 文章引用标准:https://www.sussex.ac.uk/skills-hub/referencing-and-academic-integrity/harvard
-
+> 文章引用标准: https://www.sussex.ac.uk/skills-hub/referencing-and-academic-integrity/harvard
+> 学术短语库: https://www.phrasebank.manchester.ac.uk/
 
 
 ##### analysing essay questions 分析论文问题
@@ -244,6 +296,7 @@ HOW TO PREPARE?
 
 ### 【speaking】演讲部分
 
+
 ##### seminar discussion skills 研讨会用语
 
 <joe-abtn
@@ -252,3 +305,16 @@ HOW TO PREPARE?
   href="https://www.suiu.cc/archives/seminardiscussionskills"
   radius="3px"
   content="研讨会用语 - 点击查看"></joe-abtn>
+
+
+##### seminar speaking skills: clarifying 澄清
+
+<img src="https://tu.zgjnas.top:3443/images/2023/07/25/GwgJ.png" alt="GwgJ.png" border="0">
+
+Useful phrases:
+- if i understand correctly, are you saying that?
+- in other words, do you mean that?
+
+[EAP Toolkit > Communication Skills > Checking and clarifying when speaking](https://www.elanguages.ac.uk/sussex/communication/checking_and_clarifying_when_speaking.html)
+
+
