@@ -314,7 +314,7 @@ Turnitin 文章相似性检测
 
 ### W6 <a id="W6"></a> 
 
-#### W6D1 
+#### W6D1 <a id="W6D1"></a>
 
 ##### Session 1 Reading skills and comprehension
 
@@ -342,6 +342,107 @@ Article structure 文章结构：
 
 
 ##### Task 2.1 Tim Urban: Inside the mind of a master procrastinator worksheet.
+Go to [Academic English Online](https://aeo.sllf.qmul.ac.uk/writing/punctuating/) and complete activities 1 – 3 to help you review some common aspects of punctuation so that you can apply this more confidently in your writing.
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/punctuation"
+  radius="3px"
+  content="Punctuation 标点符号"></joe-abtn>
+
+</br>
+
+#### W6D2 <a id="W6D2"></a>
+
+##### Session 3 Combining sources 结合来源
+
+- Task 3.1 Combining sources
+Go to [Academic English Online](https://aeo.sllf.qmul.ac.uk/writing/paraphrasing/) and complete activities 1 – 5 on paraphrasing and synthesising (otherwise known as combining) sources. 
+
+##### Session 4 Cautious language (hedging) 谨慎语言（对冲）
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/cautiouslanguage"
+  radius="3px"
+  content="谨慎语言 - 点击跳转查看"></joe-abtn>
+</br>
+
+#### W6D3 <a id="W6D3"></a>
+
+##### Session 5 Listening skills: lecture listening
+
+Task 5.3 Lecture: The Jury Service in England and Around the World
+
+<joe-bilibili bvid="BV1Yx4y1X7S5"></joe-bilibili>
+
+</br>
+
+##### Session 6 Speaking Assessment 1
+请看上面的视频
+
+#### W6D4 <a id="W6D4"></a>
+
+##### Session 7 Speaking Assessment 2
+将于讲师一对一问答，内容为：自己的论文
+think about:
+1. why you chose your essay title
+2. finding & reading sources ; extracting information & examples as evidence
+3. planning and writing skills in the pre-seesional
+4. writing the draft essay 
+5. your thesis / main arguments / conclusions
+6. interesting aspects of your essay
+7. interesting sources / writers that you found
+8. responding to feedback 
+
+##### Session 8: Reporting language and author voice
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/reporting-language-and-author-voice"
+  radius="3px"
+  content="报告语言 - 点击跳转查看"></joe-abtn>
+</br>
+
+For further useful resources go to:
+
+‘Voice in Academic WritingLinks to an external site.’ document [Source: University of Melbourne: ](https://students.unimelb.edu.au/academic-skills/explore-our-resources/referencing/voice-in-academic-writing#balancingLinks) to an external site.
+
+#### W6D5 <a id="W6D5"></a>
+
+##### Using tutor feedback to improve your work
+
+Task Fulfilment: have you answered the question? 任务完成:你回答问题了吗?
+Use of Sources: inclusion of sources / referencing 来源的使用:包括来源/引用
+Critical Engagement: use of sources to create argument / 'voice' 关键参与:利用资源来创造论点/“声音”
+Organisation: introduction & conclusion / paragraph structure 组织:引言和结论/段落结构
+Coherence & cohesion: flow of ideas between & within paragraphs 连贯和衔接:段落之间和段落内的思想流动
+
+
+Go to [EAP Toolkit > Learning Skills > Using tutor feedback to improve your work](https://www.elanguages.ac.uk/sussex/learning/using_tutor_feedback_to_improve_your_work.html) and complete the activities.
+
+For further information and tips on responding to feedback, please go to the [Sussex Skills Hub](http://www.sussex.ac.uk/skillshub/?id=261) .
+
+
+
+### W7 <a id="W7"></a> 
+#### W7D1 <a id="W7D1"></a>
+
+##### Session 1 Using feedback, editing and proof-reading your essay
+
+- particular parts of the essay(introduction, a main body paragraph or the conclusion)
+- your line of argument(in your thesis statement, topic sentences, when commenting on ideas from sources, and in concluding sentences)
+- your use of literature and supporting evidence
+- your academic style and language range and accuracy
+
+1. editing = revising and re-writing parts of your essay to improve clarity and logical development.
+2. proof-reading = checking your work for small errors that may make it more difficult for your reader to understand exactly what you want to say.
+
+> [论文纠错工具1-西交大](http://writingtools.xjtlu.edu.cn:8080/mm/markingmate.html)
+
 
 
 ## 🌟 content link
