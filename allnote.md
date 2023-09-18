@@ -25,8 +25,69 @@
 
 ### W2 <a id="W2"></a> 
 
+#### W2D1 <a id="W2D1"></a>
 
-#### W2作业
+##### Session 1 Summarising
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/summarising"
+  radius="3px"
+  content="总结 - 点击跳转查看"></joe-abtn>
+
+> task 1.1
+> https://www.eapfoundation.com/reading/summarising/
+> https://owl.purdue.edu/owl_exercises/multilingual_exercises/paraphrase_and_summary_exercises/index.html
+
+##### Session 2 Annotated bibliography
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/annotatedbibliography"
+  radius="3px"
+  content="AB 注释性书目 - 点击跳转查看"></joe-abtn>
+
+##### EAP building your vocabulary
+
+> https://www.elanguages.ac.uk/sussex/vocabulary/building_your_vocabulary.html
+
+#### W2D2 <a id="W2D2"></a>
+
+##### Session 3 Reading/ writing skills: introduction to paraphrasing
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/paraphrasing"
+  radius="3px"
+  content="改写 - 点击跳转查看"></joe-abtn>
+
+
+##### Session 4 Listening/ speaking skills: TED Talk: Sherry Turkle – ‘Connected, but alone?’
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/t7Xr3AsBEK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### W2D3 <a id="W2D3"></a>
+
+##### Session 5 Listening/Speaking skills: lecture listening
+
+
+##### Session 6 Listening/Speaking skills: seminar discussion skills
+1. Now go to [Skills Hub](https://www.sussex.ac.uk/skills-hub/note-making#makingnotesinlectures) and read the information about 'Making notes in lectures and seminars'. 
+
+2. Go to [EAP Toolkit > Listening & Note-Taking > How to take good notes while listening](https://www.elanguages.ac.uk/sussex/listening/how_to_take_good_notes_while_listening.html)
+
+
+##### Study task 3.1 Academic practice: reference lists 
+
+In this self-study task, you will learn about writing reference lists. Complete the following two sections of the EAP Toolkit:
+
+Go to [EAP Toolkit > Academic Writing > Describing types of source in reference list](https://www.elanguages.ac.uk/sussex/writing/describing_types_of_source_in_reference_lists.html)
+
+Go to [EAP Toolkit > Academic Writing > Compiling a reference list](https://www.elanguages.ac.uk/sussex/writing/compiling_a_reference_list.html)
+
 
 ### W3 <a id="W3"></a> 
 
@@ -476,6 +537,35 @@ For further information and tips on responding to feedback, please go to the [Su
 
 #### skill 技能
 
+##### 1. summarising 总结
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/summarising"
+  radius="3px"
+  content="总结 - 点击跳转查看"></joe-abtn>
+
+##### 2. Annotated Bibliography 注释书目
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="https://www.suiu.cc/archives/annotatedbibliography
+"
+  radius="3px"
+  content="注释书目 - 点击查看"></joe-abtn>
+
+##### 3. academic style 学术风格
+
+<joe-abtn
+  color="#409eff"
+  icon="fa-bell"
+  href="
+"
+  radius="3px"
+  content="学术风格 - 点击查看"></joe-abtn>
+
 ##### Article structure 文章结构：
 - abstract : a brief summary of the research 
   摘要:研究综述
@@ -502,15 +592,7 @@ For further information and tips on responding to feedback, please go to the [Su
   radius="3px"
   content="注释书目 - 点击查看"></joe-abtn>
 
-##### Annotated Bibliography 注释书目
 
-<joe-abtn
-  color="#409eff"
-  icon="fa-bell"
-  href="https://www.suiu.cc/archives/annotatedbibliography
-"
-  radius="3px"
-  content="注释书目 - 点击查看"></joe-abtn>
 
 ##### sentence outline 例句提纲
 
